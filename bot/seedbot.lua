@@ -226,12 +226,12 @@ function create_config( )
     about_text = [[Teleseed v1
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/SEEDTEAM/TeleSeed
+https://github.com/arashbrsh/wgh
 
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@seyedan25 [Manager]
+@stop_a [Founder]
+@stop_a [Developer]
+@stop_a [Manager]
 
 Special thanks to
 awkward_potato
@@ -240,7 +240,7 @@ topkecleon
 Vamptacus
 
 Our channels
-@teleseedch [English]
+@botdragonch [English]
 ]],
     help_text = [[
 Commands list :
@@ -356,7 +356,7 @@ will return group ban list
 end
 
 function on_our_id (id)
-  our_id = id
+ 152485254 = id
 end
 
 function on_user_update (user, what)
