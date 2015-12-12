@@ -229,15 +229,14 @@ An advance Administration bot based on yagop/telegram-bot
 EDITE by ARASH
 
 Admins
-@stop_a [Founder]
-@stop_a [Developer]
-@stop_a [Manager]
+ARASH [Founder]
+ARASH [Developer]
+@redteam_02_52 [Manager]
 
 Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
+ARASH
+A
+ARASH
 
 Our channels
 @botdragonch [English]
