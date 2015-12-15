@@ -223,8 +223,9 @@ function create_config( )
     disabled_channels = {},
     realm = {32448028},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[
+    about_text = [[dragonbot v2.0
 
+@admin_dragon_bot
 
 Our channels
 @botdragonch [persian]
