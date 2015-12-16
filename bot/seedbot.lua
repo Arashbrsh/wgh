@@ -219,13 +219,24 @@ function create_config( )
     "download_media",
     "invite"
     },
-    sudo_users = {152485254,0,tonumber(our_id)},--Sudo users
+    sudo_users = {117980836,152485254,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
-    realm = {32448028},--Realms Id
+    realm = {31934589},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[dragonbot v2.0
-
+Admins
 @admin_dragon_bot
+
+@Erik97
+
+طراح لوگو ربات و ادمین 
+
+@Bot_inviter
+
+ادمین تبلیغات و ادمین بات
+
+@big_of
+
 
 Our channels
 @botdragonch [persian]
