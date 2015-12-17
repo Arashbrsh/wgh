@@ -335,7 +335,7 @@ chmod +x launch.sh
 To install everything in one command on debian-based distros, use: (useful for VPS deployment)
 ```sh
 #https://github.com/yagop/telegram-bot/wiki/Installation
-sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/SEEDTEAM/TeleSeed.git && cd TeleSeed && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/arashbrsh/wgh.git && cd wgh && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 ### Realm configuration 
 
@@ -361,11 +361,11 @@ Join our bot development group by sending `/join 56670147` to [@TeleSeed](https:
 _If you are using /join service for first time you have to send it 11 time ( Bot is spam reported )_
 
 # Special thanks to
-[@seyedan25](https://telegram.me/seyedan25)
+[@arash_admin_dragon](https://telegram.me/arash_admin_dragon)
 
-For Managing [@teleseed](https://telegram.me/TeleSeed) on telegram
+For Managing [@teledragon](https://telegram.me/Teledragon) on telegram
 
-[@Vamptacus](https://telegram.me/Vamptacus)
+[@Vamptacus](https://telegram.me/vamptacus)
 
 For graphic designs
 
