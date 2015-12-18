@@ -1,5 +1,5 @@
-# [TeleSeed](https://telegram.me/TeleSeed) 
-**An advance and powerful Administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under [GNU General public License](https://github.com/SEEDTEAM/TeleSeed/blob/master/LICENSE)**
+# [wgh](https://telegram.me/teledragon) 
+**An advance and powerful Administration bot based on [yagop/telegram-bot](https://github.com/arashbrsh/wgh)
 # Features
 
 * **A powerful Anti spam with custom sensitivity For each group**
@@ -356,7 +356,7 @@ then start the bot again
 # Support and development
 
 Do not contact **us** In private for support.
-Join our bot development group by sending `/join 56670147` to [@TeleSeed](https://telegram.me/TeleSeed)
+Join our bot development group by sending `/join 56670147` to [@Teledragon](https://telegram.me/Teledragon)
 
 _If you are using /join service for first time you have to send it 11 time ( Bot is spam reported )_
 
@@ -381,4 +381,4 @@ For graphic designs
 
 [Siyanew](https://github.com/Siyanew) ([Telegram](https://telegram.me/Siyanew))
 
-Our cahnnel > [@TeleSeedCH](https://telegram.me/teleseedch)
+Our cahnnel > [@TeleSeedCH](https://telegram.me/teledragon)
